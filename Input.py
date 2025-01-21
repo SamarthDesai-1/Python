@@ -1,1 +1,1 @@
-a = int(input("Enter valu
+a = int(input
