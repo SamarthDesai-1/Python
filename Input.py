@@ -1,3 +1,2 @@
 a = int(input("Enter value for A : "))
-b = int(input("Enter value for B : "))
-
+b = int(input("Enter value for B : "
